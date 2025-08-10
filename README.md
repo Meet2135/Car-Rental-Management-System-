@@ -243,8 +243,3 @@ If you find this project helpful, please give it a ⭐️ star!
 For questions or support, please open an issue on GitHub or contact the development team.
 
 ---
-
-**Note**: This is a college mini-project demonstrating web development concepts and should not be used in production without proper security audits and improvements.
-
-
-
