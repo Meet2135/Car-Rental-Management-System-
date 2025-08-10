@@ -235,17 +235,9 @@ We welcome contributions! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-**Authors:**
-- [Varshith V Hegde](https://github.com/Varshithvhegde)
-- [Swasthik Jain PM](https://github.com/Swasthik-Jain)
-
 ## 🌟 Support
 
 If you find this project helpful, please give it a ⭐️ star!
-
-### Demo Links
-- **Live Demo**: [Car Rental System](https://carsminiproject.000webhostapp.com/)
-- **Video Demo**: [YouTube Demo](https://youtu.be/1Z9Z9Z9Z9Z9)
 
 ### Contact
 For questions or support, please open an issue on GitHub or contact the development team.
