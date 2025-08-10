@@ -2,8 +2,6 @@
 
 A comprehensive web-based car rental management system built with PHP, MySQL, and modern web technologies. This project provides a complete solution for car rental businesses with both user and admin interfaces.
 
-![Car Rental System](https://user-images.githubusercontent.com/80502833/187230764-e1bb2b44-c221-4529-ba73-a2261e636372.png)
-
 ## 📋 Table of Contents
 
 - [Features](#features)
